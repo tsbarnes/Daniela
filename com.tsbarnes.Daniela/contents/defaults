@@ -1,0 +1,21 @@
+[kcminputrc][Mouse]
+cursorTheme=Breeze_Snow
+
+[kdeglobals][General]
+ColorScheme=Daniela
+
+[kdeglobals][KDE]
+widgetStyle=Breeze
+
+[kwinrc][DesktopSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kwinrc][WindowSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.sierrabreezeenhanced
+theme=Sierra Breeze Enhanced
+
+[plasmarc][Theme]
+name=default
