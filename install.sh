@@ -15,9 +15,9 @@ for option in "$@"; do
 done
 
 if [ "$USER" = "root" ]; then
-  INSTALL_PATH="$HOME/.local"
-else
   INSTALL_PATH="/usr/local"
+else
+  INSTALL_PATH="$HOME/.local"
 fi
 
 if [ "$DRY_RUN" = "false" ]; then
