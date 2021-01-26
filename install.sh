@@ -15,13 +15,15 @@ for option in "$@"; do
 done
 
 if [ "$USER" = "root" ]; then
-  INSTALL_PATH="/usr/local"
+  INSTALL_PATH="/usr/local/share"
 else
-  INSTALL_PATH="$HOME/.local"
+  INSTALL_PATH="$HOME/.local/share"
 fi
 
 if [ "$DRY_RUN" = "false" ]; then
+  mkdir -p "$INSTALL_PATH/color-schemes"
   cp Daniela.colors "$INSTALL_PATH/color-schemes/"
+  mkdir -p "$INSTALL_PATH/plasma/look-and-feel"
   cp -r com.tsbarnes.Daniela "$INSTALL_PATH/plasma/look-and-feel/"
   echo "Installation complete!"
 else
