@@ -1,0 +1,29 @@
+[Desktop Entry]
+Name=Daniela Black
+Comment=Daniela Black by Thea Barnes
+
+
+X-KDE-PluginInfo-Author=Thea Barnes
+X-KDE-PluginInfo-Email=thea@tsbarnes.com
+X-KDE-PluginInfo-Name=Daniela-Black
+X-KDE-PluginInfo-Version=0.1.0
+X-KDE-PluginInfo-Website=https://github.com/tsbarnes/Daniela
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[Wallpaper]
+defaultWallpaperTheme=SafeLanding
+defaultFileSuffix=.jpg
+defaultWidth=5120
+defaultHeight=2880
+
+[ContrastEffect]
+enabled=true
+contrast=0.17
+intensity=1.25
+saturation=9
+
+[AdaptiveTransparency]
+enabled=true
