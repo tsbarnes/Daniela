@@ -1,0 +1,24 @@
+[kcminputrc][Mouse]
+cursorTheme=breeze_cursors
+
+[kdeglobals][General]
+ColorScheme=Daniela
+
+[kdeglobals][Icons]
+Theme=spectrum-light
+
+[kdeglobals][KDE]
+widgetStyle=breeze
+
+[kwinrc][DesktopSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kwinrc][WindowSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.sierrabreezeenhanced
+theme=Sierra Breeze Enhanced
+
+[plasmarc][Theme]
+name=Daniela-Black
