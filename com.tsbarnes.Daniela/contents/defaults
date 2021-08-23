@@ -4,6 +4,9 @@ cursorTheme=Breeze_Snow
 [kdeglobals][General]
 ColorScheme=Daniela
 
+[kdeglobals][Icons]
+Theme=spectrum-light
+
 [kdeglobals][KDE]
 widgetStyle=Breeze
 

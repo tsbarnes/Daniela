@@ -10,4 +10,4 @@ X-KDE-PluginInfo-Name=com.tsbarnes.Daniela
 X-KDE-PluginInfo-Version=0.1
 X-KDE-PluginInfo-Website=https://github.com/tsbarnes/Daniela
 X-KDE-ServiceTypes=Plasma/LookAndFeel
-X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1449751,kns://icons.knsrc/api.kde-look.org/1305429
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1449751,kns://icons.knsrc/api.kde-look.org/1449538
